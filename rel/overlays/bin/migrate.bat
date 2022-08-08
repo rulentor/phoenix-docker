@@ -1,0 +1,1 @@
+call "%~dp0\prodmain" eval Prodmain.Release.migrate
